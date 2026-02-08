@@ -2,10 +2,10 @@ streamlit
 pandas
 matplotlib
 seaborn
-plotly.express
+plotly
 folium
 streamlit-folium
-json
-requests
+
+
 
 
