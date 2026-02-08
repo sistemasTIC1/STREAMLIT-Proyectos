@@ -4,6 +4,7 @@ atplotlib.pyplot
 seaborn
 plotly.express
 folium
-streamlit_folium
+streamlit-folium
 json
 requests
+
